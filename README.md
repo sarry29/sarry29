@@ -1,12 +1,12 @@
 
 #     👋     Glad to have you here!
-Lets get into some technical stuff and make yourself **Industry Ready!**
+Lets jump into some technical stuff
 
 
 ## 🚀 About myself
-✔️ Hi, I am **Rabdeep Singh Kharbanda**, currently pursuing my Bachelors from Shri Vaishnav Vidyapeeth Vishwavidyalaya with specialisation in **Information Technology**.
+✔️ I am **Rabdeep Singh Kharbanda**, currently pursuing my Bachelors from Shri Vaishnav Vidyapeeth Vishwavidyalaya with specialisation in **Information Technology**.
 
-✔️ I am interested in Development as well as Data Structures & Algorithms. I also enjoy doing Competitive Programming. My hobbies include photoshop , photography, like to be fit.
+✔️ I am interested in Development as well as Data Structures & Algorithms. I also enjoy doing Competitive Programming. My hobbies include photoshop , photography, likes to be fit.
 
 **Skills:**
 
