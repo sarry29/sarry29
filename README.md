@@ -10,8 +10,8 @@ Lets jump into some technical stuff
 
 **Skills:**
 
-  C / C++ / Java / Python / Oops / RDBMS / MySQL / HTML / CSS /  Git & Github
-  Currently learning **Flutter **
+  * C / C++ / Java / Python / Oops / RDBMS / MySQL / HTML / CSS /  Git & Github
+  * Currently learning **Flutter**
 
 **Lets Get in touch.**
 * 💬 Feel free to reach out to me for general consulting, or discussions on the topics that sparks your interest in Coding and Technology.
